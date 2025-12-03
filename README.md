@@ -4,6 +4,9 @@
 A simple, responsive calculator built with **HTML**, **CSS**, and **vanilla JavaScript**.  
 This project was created to practice DOM manipulation, event handling, and basic UI layout using modern web development best practices.
 
+#Deployed at 
+https://dev-xanderr.github.io/Js_Calculator/
+
 ## Features
 
 - Basic arithmetic operations: addition, subtraction, multiplication, and division.
